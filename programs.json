@@ -1,0 +1,72 @@
+[
+    {
+        "id": "PRG-201",
+        "name": "Full-Stack Python & React Engineering",
+        "type": "Training",
+        "duration": "12 Weeks",
+        "fee": 1200.0,
+        "seats": 30,
+        "start_date": "2026-12-01",
+        "status": "Active"
+    },
+    {
+        "id": "PRG-202",
+        "name": "Cloud & DevOps Professional Internship",
+        "type": "Internship",
+        "duration": "16 Weeks",
+        "fee": 0.0,
+        "seats": 15,
+        "start_date": "2026-12-15",
+        "status": "Active"
+    },
+    {
+        "id": "PRG-203",
+        "name": "Data Science & Machine Learning Bootcamp",
+        "type": "Training",
+        "duration": "10 Weeks",
+        "fee": 1500.0,
+        "seats": 25,
+        "start_date": "2027-01-10",
+        "status": "Upcoming"
+    },
+    {
+        "id": "PRG-204",
+        "name": "Enterprise Cybersecurity Fundamentals",
+        "type": "Technology",
+        "duration": "6 Weeks",
+        "fee": 950.0,
+        "seats": 20,
+        "start_date": "2026-11-20",
+        "status": "Active"
+    },
+    {
+        "id": "PRG-205",
+        "name": "Mobile App Development with Flutter Internship",
+        "type": "Internship",
+        "duration": "12 Weeks",
+        "fee": 350.0,
+        "seats": 18,
+        "start_date": "2027-02-01",
+        "status": "Upcoming"
+    },
+    {
+        "id": "PRG-206",
+        "name": "Cobol to Microservices Transition Workshop",
+        "type": "Technology",
+        "duration": "4 Weeks",
+        "fee": 1800.0,
+        "seats": 10,
+        "start_date": "2026-08-01",
+        "status": "Closed"
+    },
+    {
+        "id": "PRG-207",
+        "name": "AI Agents & LLM Engineering Masterclass",
+        "type": "Training",
+        "duration": "8 Weeks",
+        "fee": 1400.0,
+        "seats": 25,
+        "start_date": "2027-03-01",
+        "status": "Active"
+    }
+]

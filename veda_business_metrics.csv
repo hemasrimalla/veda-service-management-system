@@ -1,0 +1,31 @@
+REPORT,Veda Technology Enterprise Business Metrics
+GENERATED_AT,2026-11-06T12:25:49.297799
+
+--- ENTITY TOTALS ---
+Metric,Value
+Total Services,7
+Active Services,6
+Total Programs,7
+Active Programs,4
+Total Customers,7
+Total Inquiries,7
+
+--- PROGRAM REVENUE METRICS ---
+Program ID,Program Name,Type,Fee ($),Seats,Potential Revenue ($),Status
+PRG-201,Full-Stack Python & React Engineering,Training,1200.0,30,36000.0,Active
+PRG-202,Cloud & DevOps Professional Internship,Internship,0.0,15,0.0,Active
+PRG-203,Data Science & Machine Learning Bootcamp,Training,1500.0,25,37500.0,Upcoming
+PRG-204,Enterprise Cybersecurity Fundamentals,Technology,950.0,20,19000.0,Active
+PRG-205,Mobile App Development with Flutter Internship,Internship,350.0,18,6300.0,Upcoming
+PRG-206,Cobol to Microservices Transition Workshop,Technology,1800.0,10,18000.0,Closed
+PRG-207,AI Agents & LLM Engineering Masterclass,Training,1400.0,25,35000.0,Active
+
+--- INQUIRY SUMMARY ---
+Inquiry ID,Customer Name,Target Type,Target Name,Priority,Status,Date
+INQ-301,Sarah Jenkins,Service,Cloud Infrastructure & DevOps,High,In Progress,2026-10-15
+INQ-302,David Chen,Service,Enterprise Web Development,Urgent,Open,2026-10-22
+INQ-303,Priya Sharma,Program,Data Science & Machine Learning Bootcamp,Medium,Open,2026-10-29
+INQ-304,Marcus Vance,Service,Mobile Application Development,Medium,Resolved,2026-10-20
+INQ-305,Aisha Al-Mansoor,Service,AI & Machine Learning Integration,High,In Progress,2026-11-02
+INQ-306,Ethan Walker,Program,Cloud & DevOps Professional Internship,Low,Closed,2026-11-03
+INQ-307,Elena Rostova,Service,Enterprise Web Development,Urgent,In Progress,2026-11-06

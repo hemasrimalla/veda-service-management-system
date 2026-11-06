@@ -1,0 +1,58 @@
+[
+    {
+        "id": "SRV-101",
+        "name": "Enterprise Web Development",
+        "category": "Web Development",
+        "description": "Full-cycle responsive web applications with microservices backend.",
+        "price": 4500.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-102",
+        "name": "Cloud Infrastructure & DevOps",
+        "category": "Cloud Consulting",
+        "description": "AWS/Azure cloud architecture, CI/CD automation, and Docker orchestration.",
+        "price": 6000.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-103",
+        "name": "Mobile Application Development",
+        "category": "App Development",
+        "description": "Native and cross-platform (Flutter/React Native) mobile apps.",
+        "price": 5200.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-104",
+        "name": "Business Intelligence & Data Analytics",
+        "category": "Data Analytics",
+        "description": "Interactive PowerBI/Tableau dashboards and automated reporting pipelines.",
+        "price": 3800.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-105",
+        "name": "AI & Machine Learning Integration",
+        "category": "AI Solutions",
+        "description": "Custom LLM agents, predictive models, and intelligent process automation.",
+        "price": 7500.0,
+        "status": "Active"
+    },
+    {
+        "id": "SRV-106",
+        "name": "Legacy System Modernization",
+        "category": "Enterprise IT",
+        "description": "Re-engineering monolithic mainframe systems into cloud-native microservices.",
+        "price": 8000.0,
+        "status": "Inactive"
+    },
+    {
+        "id": "SRV-107",
+        "name": "Cybersecurity Vulnerability Assessment",
+        "category": "Cybersecurity",
+        "description": "Comprehensive vulnerability assessment and penetration testing.",
+        "price": 4500.0,
+        "status": "Active"
+    }
+]

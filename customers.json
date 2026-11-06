@@ -1,0 +1,58 @@
+[
+    {
+        "id": "CUST-001",
+        "name": "Sarah Jenkins",
+        "email": "s.jenkins@apexglobal.io",
+        "phone": "+1-415-555-0143",
+        "company": "Apex Global Logistics",
+        "registered_date": "2026-09-12"
+    },
+    {
+        "id": "CUST-002",
+        "name": "David Chen",
+        "email": "david.c@finedgetech.com",
+        "phone": "+1-206-555-0188",
+        "company": "FinEdge Technologies",
+        "registered_date": "2026-09-25"
+    },
+    {
+        "id": "CUST-003",
+        "name": "Priya Sharma",
+        "email": "priya.sharma@horizonedu.org",
+        "phone": "+91-98765-43210",
+        "company": "Horizon University",
+        "registered_date": "2026-10-02"
+    },
+    {
+        "id": "CUST-004",
+        "name": "Marcus Vance",
+        "email": "marcus.vance@greenleaf.com",
+        "phone": "+1-312-555-0177",
+        "company": "GreenLeaf Organics",
+        "registered_date": "2026-10-18"
+    },
+    {
+        "id": "CUST-005",
+        "name": "Aisha Al-Mansoor",
+        "email": "aisha@novabiotech.ae",
+        "phone": "+971-50-555-1234",
+        "company": "Nova Biotech",
+        "registered_date": "2026-10-28"
+    },
+    {
+        "id": "CUST-006",
+        "name": "Ethan Walker",
+        "email": "ethan.w@student.mit.edu",
+        "phone": "+1-617-555-0199",
+        "company": "Individual Scholar",
+        "registered_date": "2026-11-01"
+    },
+    {
+        "id": "CUST-007",
+        "name": "Elena Rostova",
+        "email": "elena@quantumscale.io",
+        "phone": "+1-555-0144",
+        "company": "QuantumScale AI Labs",
+        "registered_date": "2026-11-06"
+    }
+]

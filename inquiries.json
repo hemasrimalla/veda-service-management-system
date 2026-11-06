@@ -1,0 +1,93 @@
+[
+    {
+        "id": "INQ-301",
+        "customer_id": "CUST-001",
+        "customer_name": "Sarah Jenkins",
+        "target_type": "Service",
+        "target_id": "SRV-102",
+        "target_name": "Cloud Infrastructure & DevOps",
+        "subject": "AWS Cloud Migration Assessment",
+        "message": "Looking to migrate our on-premise logistics systems to AWS with high availability.",
+        "status": "In Progress",
+        "priority": "High",
+        "created_date": "2026-10-15"
+    },
+    {
+        "id": "INQ-302",
+        "customer_id": "CUST-002",
+        "customer_name": "David Chen",
+        "target_type": "Service",
+        "target_id": "SRV-101",
+        "target_name": "Enterprise Web Development",
+        "subject": "B2B FinTech Client Portal",
+        "message": "Requesting scope and quotation for a secure customer financial dashboard.",
+        "status": "Open",
+        "priority": "Urgent",
+        "created_date": "2026-10-22"
+    },
+    {
+        "id": "INQ-303",
+        "customer_id": "CUST-003",
+        "customer_name": "Priya Sharma",
+        "target_type": "Program",
+        "target_id": "PRG-203",
+        "target_name": "Data Science & Machine Learning Bootcamp",
+        "subject": "Institutional Student Cohort Enrollment",
+        "message": "Inquiry regarding group discount for enrolling 12 university seniors in the cohort.",
+        "status": "Open",
+        "priority": "Medium",
+        "created_date": "2026-10-29"
+    },
+    {
+        "id": "INQ-304",
+        "customer_id": "CUST-004",
+        "customer_name": "Marcus Vance",
+        "target_type": "Service",
+        "target_id": "SRV-103",
+        "target_name": "Mobile Application Development",
+        "subject": "iOS & Android Storefront App",
+        "message": "Need a cross-platform retail app with barcode scanner and loyalty integration.",
+        "status": "Resolved",
+        "priority": "Medium",
+        "created_date": "2026-10-20"
+    },
+    {
+        "id": "INQ-305",
+        "customer_id": "CUST-005",
+        "customer_name": "Aisha Al-Mansoor",
+        "target_type": "Service",
+        "target_id": "SRV-105",
+        "target_name": "AI & Machine Learning Integration",
+        "subject": "Laboratory Predictive Analytics Model",
+        "message": "Seeking AI consulting for biomedical research pipeline automation.",
+        "status": "In Progress",
+        "priority": "High",
+        "created_date": "2026-11-02"
+    },
+    {
+        "id": "INQ-306",
+        "customer_id": "CUST-006",
+        "customer_name": "Ethan Walker",
+        "target_type": "Program",
+        "target_id": "PRG-202",
+        "target_name": "Cloud & DevOps Professional Internship",
+        "subject": "DevOps Internship Screening Inquiry",
+        "message": "Applied for the sponsored DevOps internship; inquiry on interview timeline.",
+        "status": "Closed",
+        "priority": "Low",
+        "created_date": "2026-11-03"
+    },
+    {
+        "id": "INQ-307",
+        "customer_id": "CUST-007",
+        "customer_name": "Elena Rostova",
+        "target_type": "Service",
+        "target_id": "SRV-101",
+        "target_name": "Enterprise Web Development",
+        "subject": "Microservices Migration Consultation",
+        "message": "Need technical evaluation for converting Django monolith to FastAPI.",
+        "status": "In Progress",
+        "priority": "Urgent",
+        "created_date": "2026-11-06"
+    }
+]
